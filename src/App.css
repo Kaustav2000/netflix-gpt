@@ -1,0 +1,12 @@
+.scroll-component::-webkit-scrollbar {
+  /* width: 100px !important; */
+  height: 2px;
+}
+
+.scroll-component::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.112); /* color of the tracking area */
+}
+
+.scroll-component::-webkit-scrollbar-thumb {
+  background-color: rgb(82, 82, 82); /* color of the scroll thumb */
+}
